@@ -6,3 +6,4 @@ int main()
     printf("Hello world!\n");
     return 0;
 }
+//git config --global --add safe.directory *
