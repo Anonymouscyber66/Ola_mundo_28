@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1790635436 source:d:\09\ola_mundo_28\main.c
+	<stdio.h>
+	<stdlib.h>
+
